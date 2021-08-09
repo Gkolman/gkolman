@@ -28,6 +28,20 @@
 [<code>
 <img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
 </code>](https://reactjs.org/)
+
+
+[<code>
+<img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react.png" />
+</code>](https://reactjs.org/)
+
+[<code>
+<img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/postgresSQL.png" />
+</code>](https://reactjs.org/)
+
+[<code>
+<img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/mongoDB.png" />
+</code>](https://reactjs.org/)
+
 [<code>
 <img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
