@@ -87,6 +87,8 @@
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
 
+---
+
 
 <a href="https://github.com/gkolman">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gkolman&show_icons=true&count_private=true&include_all_commits=true&bg_color=0,004b83,0c8900,a77f03,984500,980000&title_color=fff&text_color=fff&icon_color=fff" />
@@ -95,6 +97,10 @@
 <a href="https://github.com/gkolman">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkolman" />
 </a>
+
+
+---
+
 
 [website]: https://gageguzman.com/AboutMe
 [facebook]: https://www.facebook.com/gage.kolman
