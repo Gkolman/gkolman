@@ -10,11 +10,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="loading" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="loading | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg"/>][facebook]
-[<img align="left" alt="loading | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="loading | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="loading | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="gkolman" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="gkolman | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg"/>][facebook]
+[<img align="left" alt="gkolman | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="gkolman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="gkolman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -91,7 +91,7 @@
 
 
 <a href="https://github.com/gkolman">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gkolman&show_icons=true&count_private=false&include_all_commits=true&bg_color=0,004b83,0c8900,a77f03,984500,980000&title_color=fff&text_color=fff&icon_color=fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gkolman&show_icons=true&count_private=true&include_all_commits=true&bg_color=0,004b83,0c8900,a77f03,984500,980000&title_color=fff&text_color=fff&icon_color=fff" />
 </a>
 
 <a href="https://github.com/gkolman">
