@@ -1,12 +1,12 @@
 ## Hi there, my name is Gage 👋
 
-### I'm software engineering resident at <a href="https://www.linkedin.com/school/galvanize-it/mycompany/"> Galvanize </a>
+### I'm software engineering resident at <a href="https://www.linkedin.com/school/galvanize-it/mycompany/"> Galvanize </a>. Openly seeking full time work
 
-- 🔭 I’m currently working on various employee productivity tools
-- 🌱 I’m currently learning fullstack, application design, and web apps with Hack Reactor
+
+- 🔭 Check out my portfolio on my <a href="https://www.gageguzman.com/AboutMe"> website </a> ! 
 - 👯 I’m looking to collaborate with other content creators and learn from others
 - 🥅 2021 Goals: Work on some open source projects! 
-- ⚡ Fun fact: .
+- ⚡ Fun fact: I love standup comedy and cooking
 
 ### Connect with me:
 
