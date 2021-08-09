@@ -1,4 +1,4 @@
-## Hi there, I'm Shane Sutro 👋
+## Hi there, my name is Gage 👋
 
 ### I'm a student, developer, tinkerer, and generally curious human
 
@@ -6,8 +6,7 @@
 - 🌱 I’m currently learning fullstack, application design, and web apps with Hack Reactor
 - 👯 I’m looking to collaborate with other content creators and learn from others
 - 🥅 2021 Goals: Work on some open source projects!
-- ⚡ Fun fact: I love all kinds of music and I appreciate a good cup of coffee and the art and precision that goes into making an excellent cup.
-- 💬 Ask me about the [Vestaboard](https://github.com/SonicRift/Vestaboard) project I'm working on!
+- ⚡ Fun fact: .
 
 ### Connect with me:
 
@@ -94,18 +93,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SonicRift&show_icons=true&count_private=true&include_all_commits=true&bg_color=0,004b83,0c8900,a77f03,984500,980000&title_color=fff&text_color=fff&icon_color=fff" />
 </a>
 
-<a href="https://github.com/SonicRift">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonicRift" />
-</a>
-
-<a href="https://github.com/SonicRift">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ShaneSutro" />
-</a>
-
 ---
 
-[website]: https://shanesutro.com
-[twitter]: https://twitter.com/shanesutro
-[facebook]: https://www.facebook.com/shanesutro
-[instagram]: https://www.instagram.com/contested_ardency
-[linkedin]: https://www.linkedin.com/in/shanesutro
+[website]: https://gageguzman.com/AboutMe
+[facebook]: https://www.facebook.com/gage.kolman
+[linkedin]: https://www.linkedin.com/in/gage-guzman-8922221b3/
