@@ -96,10 +96,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkolman" />
 </a>
 
-<a href="https://github.com/gkolman">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gkolman" />
-</a>
-
 [website]: https://gageguzman.com/AboutMe
 [facebook]: https://www.facebook.com/gage.kolman
 [linkedin]: https://www.linkedin.com/in/gage-guzman-8922221b3/
