@@ -3,7 +3,7 @@
 ### I'm software engineering resident at <a href="https://www.linkedin.com/school/galvanize-it/mycompany/"> Galvanize </a>. Openly seeking full time work
 
 
-- 🔭 Check out my portfolio on my <a href="https://www.gageguzman.com/AboutMe"> website </a> ! 
+- 🔭 Check out my portfolio on my <a href="https://www.gageguzman.com/AboutMe"> website </a>! 
 - 👯 I’m looking to collaborate with other content creators and learn from others
 - 🥅 2021 Goals: Work on some open source projects! 
 - ⚡ Fun fact: I love standup comedy and cooking
@@ -13,11 +13,8 @@
 [<img align="left" alt="gkolman" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="gkolman | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg"/>][facebook]
 [<img align="left" alt="gkolman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 <br />
-
 ---
-
 ### Languages and Tools:
 
 [<code>
@@ -87,7 +84,6 @@
 
 ---
 
-
 <a href="https://github.com/gkolman">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gkolman&bg_color=0,004b83,0c8900,a77f03,984500,980000&title_color=fff&text_color=fff&icon_color=fff" />
 </a>
@@ -95,7 +91,6 @@
 <a href="https://github.com/gkolman">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkolman" />
 </a>
-
 
 ---
 
