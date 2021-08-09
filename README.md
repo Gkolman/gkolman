@@ -1,11 +1,11 @@
 ## Hi there, my name is Gage 👋
 
-### I'm a student, developer, tinkerer, and generally curious human
+### I'm software engineering resident at <a href="https://www.linkedin.com/school/galvanize-it/mycompany/"> Galvanize </a>
 
 - 🔭 I’m currently working on various employee productivity tools
 - 🌱 I’m currently learning fullstack, application design, and web apps with Hack Reactor
 - 👯 I’m looking to collaborate with other content creators and learn from others
-- 🥅 2021 Goals: Work on some open source projects!
+- 🥅 2021 Goals: Work on some open source projects! 
 - ⚡ Fun fact: .
 
 ### Connect with me:
