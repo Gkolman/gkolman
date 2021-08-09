@@ -6,7 +6,7 @@
 - 🔭 Check out my portfolio on my <a href="https://www.gageguzman.com/AboutMe"> website </a>! 
 - 👯 I’m looking to collaborate with other content creators and learn from others
 - 🥅 2021 Goals: Work on some open source projects! 
-- ⚡ Fun fact: I love standup comedy and cooking
+- ⚡ Fun fact: I love standup comedy and cooking!
 
 ### Connect with me:
 
