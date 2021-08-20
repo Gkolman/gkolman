@@ -1,6 +1,8 @@
 ## Hi there, my name is Gage 👋
 
-### I'm software engineer at <a href="https://www.linkedin.com/school/galvanize-it/mycompany/"> Galvanize </a>. Openly seeking full time work
+### I'm software engineer at <a href="https://www.linkedin.com/school/galvanize-it/mycompany/"> Galvanize</a>. Openly seeking full time work
+
+#### Add me on <a href="https://www.linkedin.com/in/gage-guzman-8922221b3/">LinkedIn!</a>
 
 
 - 🔭 Check out my portfolio on my <a href="https://www.gageguzman.com/AboutMe">website</a>! 
