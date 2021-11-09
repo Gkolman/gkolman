@@ -1,6 +1,6 @@
 ## Hi there, my name is Gage 👋
 
-### I'm software engineer at <a href="https://www.linkedin.com/company/webscalenetworks/mycompany/"> Webscale Networks</a>. Actively seeking full time work
+### I'm software engineer at <a href="https://www.linkedin.com/company/webscalenetworks/mycompany/"> Webscale Networks</a>
 
 #### Add me on <a href="https://www.linkedin.com/in/gage-guzman-8922221b3/">LinkedIn!</a>
 
