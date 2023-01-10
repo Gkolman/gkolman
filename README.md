@@ -1,6 +1,6 @@
 ## Hi there, my name is Gage 👋
 
-### I'm software engineer at <a href="https://www.linkedin.com/company/lob/mycompany/verification/"> Lob </a>
+### I'm software engineer at <a href="https://www.lob.com/"> Lob </a>
 
 #### Add me on <a href="https://www.linkedin.com/in/gage-guzman-8922221b3/">LinkedIn!</a>
 
