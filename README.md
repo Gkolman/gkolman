@@ -38,7 +38,4 @@
 
 ---
 
-
-[website]: https://gageguzman.com/AboutMe
-[facebook]: https://www.facebook.com/gage.kolman
 [linkedin]: https://www.linkedin.com/in/gage-guzman-8922221b3/
